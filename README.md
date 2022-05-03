@@ -7,3 +7,10 @@ Features that are supported are:
 - Head rendering
 
 If you want add features, open a pull request!
+
+
+## Requirements
+
+- [MinePI](https://github.com/benno1237/MinePI) `pip install MinePI`
+- [Quart](https://pgjones.gitlab.io/quart/) `pip install quart`
+- [io](https://docs.python.org/3/library/io.html) `Python Standard Library`
